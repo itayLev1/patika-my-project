@@ -1,0 +1,9 @@
+solana wallet for ~/helloworld-by-joshsdevbox/example-helloworld on ubuntu os
+address: 8eZm9PA8cHTXp1sGMRpdQp1UnGnD9YucAcfNFpjb8oVX
+private-key: I dont know.
+
+solana program for ~/helloworld-by-joshsdevbox/example-helloworld on ubuntu os
+Program Id: EBn8j2cYwKthhjkHV2umT9Dhx24YUr2e2iZHqftakUYx
+Owner: BPFLoaderUpgradeab1e11111111111111111111111
+ProgramData Address: ERrRYG8YBP76FCbmWPS3kJTp8mfWYxJRRdyAwLJzJZTS
+Authority: 8eZm9PA8cHTXp1sGMRpdQp1UnGnD9YucAcfNFpjb8oVX
